@@ -3,7 +3,7 @@ title: "Getting Started"
 slug: /getting-started
 ---
 
-Choose the exercise that best suits your interests and skill level.To complete the exercises, you will need an environment with GitHub Copilot and a supported IDE such as VS Code.
+Choose the exercise that best suits your interests and skill level. To complete the exercises, you will need an environment with GitHub Copilot and a supported IDE such as VS Code.
 
 The following section provides instructions on setting up your environment. There may be additional setup required for specific exercises, so be sure to read the **README** file for the exercise you choose.
 
