@@ -3,7 +3,7 @@ title: "Welcome"
 slug: /
 ---
 
-# GitHub Copilot Labs
+## GitHub Copilot Labs
 
 Welcome to GitHub Copilot Labs! 🎉🚀
 
@@ -16,7 +16,7 @@ Dive in and explore the incredible world of GitHub Copilot! 🌟🤖
 
 Here’s how to get started:
 
-1. **Explore Our Labs**:Check out our curated list of workshops designed for different developer personas.
+1. **Explore Our Labs**: Check out our curated list of workshops designed for different developer personas.
 2. **Get Support**: Insight can help you with your GitHub Copilot adoption journey. Find out more by emailing us at [marketing-apac@insight.com](mailto:marketing-apac@insight.com?Subject=GitHub%20Copilot%20Adoption%20Help).
 3. **Contribute**: Have suggestions for additional workshops or labs? Submit an Issue or PR, and we’ll consider adding them to our list!
 
@@ -33,7 +33,7 @@ Happy coding! 💻✨
 
 - [GitHub Copilot Lab C# Console App](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-csharp-console) (VS Code, C#, .NET)
 - [GitHub Copilot Lab Node Calculator](https://github.com/GitHub-Insight-ANZ-Lab/copilot-node-calculator) (VS Code, Node.js)
-- [GitHub Copilot Challenge ASP.NET Minimal API](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-minimal-api-csharp) (VS Code, #, ASP.NET Core)
+- [GitHub Copilot Challenge ASP.NET Minimal API](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-minimal-api-csharp) (VS Code, C#, ASP.NET Core)
 - [GitHub Copilot Challenge Java Spring Boot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-java-spring-boot) (VS Code, Java, Spring Boot)
 
 ### Full Stack Engineers
